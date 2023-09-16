@@ -1,4 +1,4 @@
-A/*             RectangulaR
+/*             RectangulaR
 
 RectangulaR lite software version 1.99v
 Compatible with hardware version 2.6v
