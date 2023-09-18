@@ -20,4 +20,6 @@ The value of Analog button to be inputted in line 42-45 in the skecth i.e.
     248 // [2] = Down  //Resistor Analog Value
 
 Additional info: Learn how to set up analog button value:https://www.instructables.com/How-to-Multiple-Buttons-on-1-Analog-Pin-Arduino-Tu/
+
+How to build it: https://www.youtube.com/watch?v=a7XYZyDeuzY
     
